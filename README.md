@@ -8,9 +8,18 @@
 Echo! It's an app developed with Android Studio, I created the wireframe and overall design of the app.  
 </p>
 
-<h4 align="left">And some papers I've written concerning tech:</h4>
+<h4 align="left">Videos and articles I've been a part of:</h4>
 <p align="left">
- *Soon to come!
+  
+   * Talking Tech Interview :  [Talking Tech Interview](https://www.youtube.com/watch?v=_3Ey16lAzxg "Talking Tech Interview")
+   * UNICC and Break Through Tech :  [UNICC Article](https://www.youtube.com/watch?v=_3Ey16lAzxg "Unicc Hosts Break Through Tech Students")
+
+</p>
+
+
+<h4 align="left">And some papers I've written:</h4>
+<p align="left">
+*Soon to come!
 </p>
 
 
