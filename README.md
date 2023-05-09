@@ -12,7 +12,7 @@ Echo! It's an app developed with Android Studio, I created the wireframe and ove
 <p align="left">
   
    * Talking Tech Interview :  [Talking Tech Interview](https://www.youtube.com/watch?v=_3Ey16lAzxg "Talking Tech Interview")
-   * UNICC and Break Through Tech :  [UNICC Article](https://www.youtube.com/watch?v=_3Ey16lAzxg "Unicc Hosts Break Through Tech Students")
+   * UNICC and Break Through Tech :  [UNICC Article](https://www.unicc.org/news/2022/03/29/unicc-hosts-break-through-tech-students-working-on-cybersecurity-and-project-management-projects/ "Unicc Hosts Break Through Tech Students")
 
 </p>
 
