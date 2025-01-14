@@ -1,14 +1,11 @@
 ![csanchezgina@gmail com](https://user-images.githubusercontent.com/72993271/205727826-593d9da8-a40d-4827-9425-32034fcd471b.gif)
 
 
-<h3 align="center">I'm a student in NYC striving to further connect the gaps between technology, ethics and education</h3>
+<h3 align="center">I'm a technologist based in NYC striving to further connect the gaps between technology, ethics, art, and education</h3>
 
-<h4 align="left">My favorite projects I've worked on so far:</h4>
-<p align="left">
-Echo! It's an app developed with Android Studio, I created the wireframe and overall design of the app.  
 </p>
 
-<h4 align="left">Some intersectional highlights:</h4>
+<h4 align="left">Intersectional Highlights:</h4>
 <p align="left">
 
    * Youth for Privacy (YFP): [YFP Highlight](https://www.youthforprivacy.org/carla-sanchez-2024-fellow)
@@ -21,7 +18,10 @@ Echo! It's an app developed with Android Studio, I created the wireframe and ove
 
 <h4 align="left">Intersectional Projects:</h4>
 <p align="left">
-  * Data center sustainability: [NYS Senate Project](https://github.com/CGSanchez-tech/NYS-Senator-Gonzalez-Report)
+  
+  * Data center sustainability: [NYS Senator Gonzalez Report](https://github.com/CGSanchez-tech/NYS-Senator-Gonzalez-Report)
+
+
 </p>
 
 
