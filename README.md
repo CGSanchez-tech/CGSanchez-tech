@@ -8,11 +8,13 @@
 Echo! It's an app developed with Android Studio, I created the wireframe and overall design of the app.  
 </p>
 
-<h4 align="left">Videos and articles I've been a part of:</h4>
+<h4 align="left">Some intersectional highlights:</h4>
 <p align="left">
-  
+
+   * Youth for Privacy (YFP): [YFP Highlight](https://www.youthforprivacy.org/carla-sanchez-2024-fellow)
+   * Model NYS Senate and SOMOS Conference: [NYS Senate Highlight](https://hunter.cuny.edu/news/hunter-student-participates-in-model-nys-senate-at-somos-conference/)
    * Talking Tech Interview :  [Talking Tech Interview](https://www.youtube.com/watch?v=_3Ey16lAzxg "Talking Tech Interview")
-   * UNICC and Break Through Tech :  [UNICC Article](https://www.unicc.org/news/2022/03/29/unicc-hosts-break-through-tech-students-working-on-cybersecurity-and-project-management-projects/ "Unicc Hosts Break Through Tech Students")
+   * United Nations Computing Centre (UNICC) and Break Through Tech :  [UNICC Article](https://www.unicc.org/news/2022/03/29/unicc-hosts-break-through-tech-students-working-on-cybersecurity-and-project-management-projects/ "Unicc Hosts Break Through Tech Students")
 
 </p>
 
