@@ -19,9 +19,9 @@ Echo! It's an app developed with Android Studio, I created the wireframe and ove
 </p>
 
 
-<h4 align="left">And some papers I've written:</h4>
+<h4 align="left">Intersectional Projects:</h4>
 <p align="left">
-*Soon to come!
+  * Data center sustainability: [NYS Senate Project](link)
 </p>
 
 
