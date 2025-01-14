@@ -21,7 +21,7 @@ Echo! It's an app developed with Android Studio, I created the wireframe and ove
 
 <h4 align="left">Intersectional Projects:</h4>
 <p align="left">
-  * Data center sustainability: [NYS Senate Project](link)
+  * Data center sustainability: [NYS Senate Project](https://github.com/CGSanchez-tech/NYS-Senator-Gonzalez-Report)
 </p>
 
 
